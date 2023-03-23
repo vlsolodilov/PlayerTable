@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlayerTable</string>
+    <string name="error_message">Something went wrong\nLet\'s try again?</string>
+    <string name="try_again">Try again</string>
+    <string name="rating">Место</string>
+    <string name="sum_score">Сумма очков</string>
+    <string name="wrong_score">Wrong score!</string>
+</resources>
